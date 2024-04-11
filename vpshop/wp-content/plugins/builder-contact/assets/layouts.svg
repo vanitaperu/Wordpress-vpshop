@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="#dbdada">
+  <defs>
+    <clipPath id="a">
+        <path d="M0 0h32v28H0z"/>
+    </clipPath>
+  </defs>
+    <path d="M5 6.9h10.4v1.3H5V6.9zm0 2.6h10.4v1.3H5V9.5zm0 2.6h22v6.4H5v-6.4zm17.5 7.7H27v1.3h-4.5v-1.3z"/>
+    <g clip-path="url(#a)" transform="translate(0 28)">
+        <path d="M5.1 7.3h6.4v1.2H5.1V7.3zm7.7 0h6.4v1.2h-6.4V7.3zm7.7 0h6.4v1.2h-6.4V7.3zM5.1 9.8h21.8v8.4H5.1V9.8zm17.3 9.7h4.5v1.3h-4.5v-1.3z"/>
+    </g>
+    <path transform="translate(0 56)" d="M5 8.2h10.4v1.3H5V8.2zm0 3.2h10.4v1.3H5v-1.3zm0 3.2h10.4v1.3H5v-1.3zm11.6-6.4H27v8.4H16.6V8.2zm5.9 10.3H27v1.3h-4.5v-1.3z"/>
+    <path transform="translate(0 84)" d="M5 7.2h2.6v.7H5v-.7zm0 1.9h6.5v.7H5v-.7zm7.8-1.9h2.6v.7h-2.6v-.7zm0 1.9h6.4v.7h-6.4v-.7zm7.7-1.9h2.6v.7h-2.6v-.7zm2 12.3H27v1.3h-4.5v-1.3zm-2-10.4H27v.7h-6.5v-.7zM5 10.4h22v7.8H5v-7.8z"/>
+    <view id="style1" viewBox="0 0 32 28"/>
+    <view id="style2" viewBox="0 28 32 28"/>
+    <view id="style3" viewBox="0 56 32 28"/>
+    <view id="style4" viewBox="0 84 32 28"/>
+</svg>

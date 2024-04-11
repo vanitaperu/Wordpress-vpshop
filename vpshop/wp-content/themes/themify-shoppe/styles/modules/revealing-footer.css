@@ -1,0 +1,1 @@
+.revealing-footer #footerwrap{bottom:0;max-height:85vh;overflow:auto;position:sticky;z-index:0}.revealing-footer.no-css-sticky #footerwrap{left:0;position:fixed;right:0}.revealing-footer #body{position:relative;z-index:1}.revealing-footer #footerwrap:not(.active-revealing){opacity:0;visibility:hidden}.revealing-footer #footerwrap #footer{opacity:.3}

@@ -1,0 +1,1 @@
+($=>{"use strict";window.addEventListener("load",(function(){$("body").on("click",".themify-close-warning",(function(){const n=$(this),i={action:"themify_dismiss_warning",nonce:n.data("nonce"),warning:n.data("warning")};$.post(ajaxurl,i,(i=>{i&&n.parent().fadeOut().remove()}))}))}),{once:!0,passive:!0})})(jQuery);
